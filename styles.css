@@ -788,7 +788,7 @@ html {
 .burger::before {
   display: inline-block;
   content: "";
-  background-image: url(../../src/images/menu.svg);
+  background-image: url(./src/images/menu.svg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 12px;
@@ -803,7 +803,7 @@ html {
 .burger::after {
   display: none;
   content: "";
-  background-image: url(../../src/images/menu_hover.svg);
+  background-image: url(./src/images/menu_hover.svg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 12px;
