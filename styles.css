@@ -57,7 +57,7 @@ html {
 }
 
 .header {
-  background-image: url(../../photos/bike-background.svg);
+  background-image: url(./photos/bike-background.svg);
   height: 85dvh;
   background-repeat: no-repeat;
   background-position: 85%;
@@ -746,7 +746,7 @@ html {
 }
 
 .footer {
-  background-image: url("../../photos/footer.png");
+  background-image: url("./photos/footer.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
