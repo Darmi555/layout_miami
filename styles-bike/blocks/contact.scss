@@ -155,7 +155,7 @@
     }
   }
 
-  &__info {
+  &__link {
     padding-top: 8px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -163,5 +163,14 @@
     line-height: 140%;
     letter-spacing: 0px;
     color: #fff;
+    text-decoration: none;
+
+    &:hover{
+      color: #ccc
+    }
+
+    &:active{
+      color: #999;
+    }
   }
 }

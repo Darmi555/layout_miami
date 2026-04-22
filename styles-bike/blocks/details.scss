@@ -129,26 +129,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    align-self: stretch;
     margin-top: 40px;
-    aspect-ratio: 5;
-    width: 100%;
+    padding: 16px;
     text-decoration: none;
     color: #1d1d1d;
     background-color: #fff;
-    border-radius: 45px;
+    border-radius: 40px;
     font-family: 'Roboto';
     font-weight:900;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 27px;
-
-    @include tablet{
-      aspect-ratio: 8;
-      width: 85%;
-      margin-top: 48px;
-    }
-
-    @include desktop{
-      width: 50%;
-    }
   }
 }
