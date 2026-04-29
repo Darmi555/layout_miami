@@ -81,7 +81,7 @@ body {
   }
 }
 .header__title {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 40px;
   line-height: 100%;
@@ -212,7 +212,7 @@ body {
   text-decoration: none;
   color: #1d1d1d;
   position: relative;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-size: 22px;
   line-height: 22px;
@@ -259,7 +259,7 @@ body {
 }
 .menu__contact--phone {
   text-decoration: none;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-size: 16px;
   line-height: 27px;
@@ -275,7 +275,7 @@ body {
 .menu__contact--reservation {
   position: relative;
   text-decoration: none;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-size: 12px;
   line-height: 16px;
@@ -301,7 +301,7 @@ body {
 }
 
 .title {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 32px;
   line-height: 100%;
@@ -349,7 +349,7 @@ body {
 }
 .section__paragraph {
   padding-top: 32px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 23px;
   line-height: 140%;
@@ -415,7 +415,7 @@ body {
 }
 .compare__title-small {
   padding-top: 32px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 24px;
   line-height: 140%;
@@ -433,7 +433,7 @@ body {
 }
 .compare__paragraph {
   padding-top: 8px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -442,7 +442,7 @@ body {
 }
 .compare__price {
   padding-top: 16px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 24px;
   line-height: 140%;
@@ -562,7 +562,7 @@ body {
 }
 .details__paragraph {
   padding-top: 8px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 140%;
@@ -586,7 +586,7 @@ body {
   color: #1d1d1d;
   background-color: #fff;
   border-radius: 40px;
-  font-family: "Roboto";
+  font-family: "Poppins";
   font-weight: 900;
   font-size: 16px;
   line-height: 27px;
@@ -680,7 +680,7 @@ body {
   background-color: #F8F8FA;
   border: 1px solid #1d1d1d;
   border-radius: 40px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
@@ -706,7 +706,7 @@ body {
   border: none;
   border-radius: 40px;
   padding: 16px;
-  font-family: "Roboto";
+  font-family: "Poppins";
   font-weight: 900;
   font-size: 16px;
   line-height: 27px;
@@ -724,7 +724,7 @@ body {
 }
 .contact__type {
   padding-top: 24px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size: 14px;
   line-height: 140%;
@@ -738,7 +738,7 @@ body {
 }
 .contact__link {
   padding-top: 8px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 140%;
@@ -772,7 +772,7 @@ body {
 }
 
 .phone__label {
-  font-family: "Roboto", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 700;
   font-size: 12px;
   line-height: 16px;
